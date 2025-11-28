@@ -27,9 +27,8 @@ To run this dashboard on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/options-risk-dashboard.git](https://github.com/YOUR-USERNAME/options-risk-dashboard.git)
+    git clone [https://github.com/ojackson27/options-risk-dashboard.git](https://github.com/ojackson27/options-risk-dashboard.git)
     ```
-    *(Note: Replace `YOUR-USERNAME` with your actual GitHub username)*
 
 2.  **Install dependencies:**
     ```bash
