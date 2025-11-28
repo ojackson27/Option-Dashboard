@@ -10,7 +10,6 @@ This project is an interactive financial dashboard built with **Python** and **S
 ---
 
 ## Project Overview
-... (Keep the rest of your text here)
 
 
 Using the **Black-Scholes-Merton model**, the tool functions as a pricing engine that allows users to:
