@@ -79,9 +79,9 @@ elif heatmap_type == "Spot Price vs Time":
     
 
 
-# -------------------------------------------
+
 # 4. THE VISUALIZATION (Plotly)
-# -------------------------------------------
+
 fig = go.Figure(data=go.Heatmap(
     z=pnl_grid,
     x=spot_range,
