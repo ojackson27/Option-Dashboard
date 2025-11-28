@@ -97,3 +97,18 @@ fig.update_layout(title=f"P&L Heatmap: {y_label} vs Spot Price",
 st.plotly_chart(fig)
 
 st.write(f"**Current Option Price:** ${purchase_price:.2f}")
+
+
+# SIDEBAR - ABOUT ME
+
+st.sidebar.markdown("---") # Adds a visual separator line
+st.sidebar.title("About")
+st.sidebar.info(
+    """
+    This dashboard was built by **[Oliver Jackson]**.
+    
+    Interested in my work?
+    - [Connect on LinkedIn](www.linkedin.com/in/oliver-jackson-7a856629b)
+    - [View Source Code](https://github.com/ojackson27)
+    """
+)
