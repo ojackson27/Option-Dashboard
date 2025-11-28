@@ -108,7 +108,7 @@ st.sidebar.info(
     This dashboard was built by **[Oliver Jackson]**.
     
     Interested in my work?
-    - [Connect on LinkedIn](www.linkedin.com/in/oliver-jackson-7a856629b)
+    - [Connect on LinkedIn](https://www.linkedin.com/in/oliver-jackson-7a856629b)
     - [View Source Code](https://github.com/ojackson27)
     """
 )
