@@ -1,11 +1,11 @@
-# 📊 Black-Scholes Options Risk Dashboard
+# Black-Scholes Options Risk Dashboard
 
 ## Project Overview
 This project is an interactive financial dashboard built with **Python** and **Streamlit** to visualize option pricing dynamics and risk metrics.
 
-## 🚀 Live Demo
+##  Live Demo
 **Try the interactive dashboard instantly in your browser:**
-👉 **[Click Here to Launch App](https://option-dashboard.streamlit.app/)**
+ **[Click Here to Launch App](https://option-dashboard.streamlit.app/)**
 
 ---
 
