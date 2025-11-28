@@ -3,6 +3,16 @@
 ## Project Overview
 This project is an interactive financial dashboard built with **Python** and **Streamlit** to visualize option pricing dynamics and risk metrics.
 
+## 🚀 Live Demo
+**Try the interactive dashboard instantly in your browser:**
+👉 **[Click Here to Launch App](https://option-dashboard.streamlit.app/)**
+
+---
+
+## Project Overview
+... (Keep the rest of your text here)
+
+
 Using the **Black-Scholes-Merton model**, the tool functions as a pricing engine that allows users to:
 1.  **Calculate Real-Time Greeks:** Visualize how Delta, Gamma, Theta, and Vega evolve across different stock prices.
 2.  **Simulate P&L Scenarios:** Generate interactive 3D-style heatmaps to stress-test strategies against changes in **Time Decay (Theta)** and **Volatility (Vega)**.
